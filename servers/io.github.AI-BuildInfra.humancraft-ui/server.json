@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.AI-BuildInfra/humancraft-ui",
+  "title": "HumanCraft UI (Antigravity MCP)",
+  "description": "Official Google Antigravity MCP Server for eliminating AI Slop, enforcing E-E-A-T entity reconciliation, and crafting human web design. By AI Build Infra.",
+  "version": "1.0.0",
+  "websiteUrl": "https://aibuildinfra.com/",
+  "repository": {
+    "source": "github",
+    "url": "https://github.com/AI-BuildInfra/Humancraft-UI"
+  }
+}
